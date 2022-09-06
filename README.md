@@ -22,3 +22,8 @@
 git clone https://github.com/JeffWen0105/minikube_rocky8.git && \
  cd minikube_rocky8 && bash minikube_tibama_rocky8.sh
 ```
+
+## 使用元素
+
+- [cri-o](https://cri-o.io/)
+- [podman](https://podman.io/)
