@@ -30,6 +30,6 @@ git clone https://github.com/JeffWen0105/minikube_rocky8.git && \
 
 ## GUI 容器管理介面
 
-瀏覽器打開 https://<IP>:9090 , 帳號 root 預設密碼 tgc101 
+瀏覽器打開 `https://<Your IP>:9090 , 帳號 root 預設密碼 tgc101 `
 
 ![](https://i.imgur.com/4YlS58v.png)
